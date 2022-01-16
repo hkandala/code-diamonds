@@ -1,6 +1,6 @@
 ![CodeDiamonds Banner](/public/banner.png)
 
-# CodeDiamonds
+# 💎 CodeDiamonds
 
 An NFT Marketplace for artwork made with code!
 
