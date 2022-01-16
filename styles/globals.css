@@ -1,0 +1,21 @@
+#__next > div {
+  overflow: hidden;
+}
+
+#background {
+  position: fixed;
+  z-index: -1;
+}
+
+a.active {
+  font-weight: 600 !important;
+  text-decoration: underline !important;
+}
+
+.code-editor {
+  margin: 0 !important;
+}
+
+.code-editor .caption {
+  margin: 0 !important;
+}
