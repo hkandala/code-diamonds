@@ -1,3 +1,5 @@
+![CodeDiamonds Banner](/public/banner.png)
+
 # CodeDiamonds
 
 An NFT Marketplace for artwork made with code!
